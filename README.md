@@ -9,6 +9,6 @@ $ npm install
 $ npm start
 ```
 
-*[Demo](https://cukyawzintun.github.io/meteorites-landed-map/)*
+*[Demo](https://kyawzintun.github.io/meteorites-landed-map/)*
 
 
